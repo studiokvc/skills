@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) couvre réseau Base, comptes, paiements, Builder Codes et agents.
+
 # Base Skills
 
 ![Base](logo.webp)
